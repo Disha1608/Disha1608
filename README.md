@@ -23,7 +23,7 @@ Here are a few projects I've worked on:
 
 - 🔬 **Heart Attack Risk Prediction** – Used ML to predict the likelihood of heart attacks based on public health data.
 - 📉 **Super Store Sales Dashboard** – Built an interactive dashboard using Power BI, Monitoring total sales provides insights into trends, helping identify opportunities for growth and optimization.
-- 📊 **Road Accident Dashboard** - Built an interactive dashboard using Power BI, providing crucial insights into the severity and aftermath of accidents.
+- 📊 **Road Accident Dashboard** - Built an interactive dashboard using Excel, providing crucial insights into the severity and aftermath of accidents.
 
 ## 📫 Get in Touch
 
