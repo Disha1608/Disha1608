@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate and curious professional with cer
 ## 📈 Projects
 
 Here are a few projects I've worked on:
-
+- 🔬 **Bitcoin Price Prediction** - This project focuses on forecasting Bitcoin closing prices using Time Series (ARIMA), Machine Learning (Gradient Boosting), and Deep Learning (LSTM) models. The goal is to determine the most effective model based on prediction accuracy (measured using RMSE).
 - 🔬 **Heart Attack Risk Prediction** – Used ML to predict the likelihood of heart attacks based on public health data.
 - 📉 **Super Store Sales Dashboard** – Built an interactive dashboard using Power BI, Monitoring total sales provides insights into trends, helping identify opportunities for growth and optimization.
 - 📊 **Road Accident Dashboard** - Built an interactive dashboard using Excel, providing crucial insights into the severity and aftermath of accidents.
