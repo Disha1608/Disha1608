@@ -1,12 +1,32 @@
-- 👋 Hi, I’m Disha
-- 👀 I’m interested in analysing datasets to drive useful insights
-- 🌱 I’m currently learning Data analytics and artificial intelligence
-- 💞️ I’m looking to collaborate on datasets which are complex and will challenge my current skills.
-- 📫 How to reach me -- Through linkedin (https://www.linkedin.com/in/disha-chauhan-b5971724a/)
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: just like bees communicate through their intricate ‘waggle dance’ to share information about food sources,I’m learning to code and buzzing with excitement to explore this fascinating world of algorithms and creativity!
+# 👋 Hi there, I'm Disha Chauhan!
 
-<!---
-Disha1608/Disha1608 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate and curious professional with certifications in Business Analytics and Data Science and strong interest in data, technology, and innovation.
+
+## 🔍 About Me and What I do:
+- 🎓 I'm a graduate with a specialization in Biotechnology.
+- Data cleaning and preprocessing  
+- Creating interactive dashboards with Power BI  
+- Writing SQL queries for data extraction and reporting  
+- Communicating insights to support business decisions
+- 📊 Passionate about turning data into actionable insights
+
+## 🛠️ Tech Stack
+
+- Languages: Python, SQL
+- Tools: Power BI, Excel, Jupyter.
+- Databases: MySQL
+- Other: Pandas, Numpy, Matplotlib, Seaborn
+
+## 📈 Projects
+
+Here are a few projects I've worked on:
+
+- 🔬 **Heart Attack Risk Prediction** – Used ML to predict the likelihood of heart attacks based on public health data.
+- 📉 **Super Store Sales Dashboard** – Built an interactive dashboard using Power BI, Monitoring total sales provides insights into trends, helping identify opportunities for growth and optimization.
+- 📊 **Road Accident Dashboard** - Built an interactive dashboard using Power BI, providing crucial insights into the severity and aftermath of accidents.
+
+## 📫 Get in Touch
+
+- LinkedIn: [https://www.linkedin.com/in/disha-chauhan-b5971724a/]
+
+Thanks for visiting! ⭐ Feel free to explore my repositories and connect with me.
